@@ -35,4 +35,4 @@
 - Nếu khi nạp chương trình mà báo lỗi thiếu thư viện Servo thì add thư viện này vào.
 - Vào Sketch -> Include Library -> Add .ZIP Labrary...
 
-* Nếu bạn có vấn đề thì có thể liên hệ với tôi.
+# Nếu bạn có vấn đề thì có thể liên hệ với tôi.
