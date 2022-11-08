@@ -1,9 +1,8 @@
 # Car_Esp8266
-
-##################################
-# From Tran Viet An - 19CE - VKU #
-# Contact: tvan.19ce@vku.udn.vn  #
-##################################
+----------------------------------
+| From Tran Viet An - 19CE - VKU |
+| Contact: tvan.19ce@vku.udn.vn  |
+----------------------------------
 
 # AppAndroid_apk
 - File apk trong thư mục này là file cài đặt ứng dụng điều khiển xe thông qua Blutooth.
