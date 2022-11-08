@@ -31,3 +31,7 @@
 - Trong thư mục này chứa file code *.ino chạy trong phần mềm Arduino IDE.
 - Dự án này sử dụng module ESP8266, nên khi nạp code cho mạch cần chọn đúng Board sử dụng, và Port COM.
 - File diagram.JPG là sơ đồ nối dây giữa các linh kiện (được vẽ trên Fritzing).
+
+# Servo-1.1.8.zip
+- Nếu khi nạp chương trình mà báo lỗi thiếu thư viện Servo thì add thư viện này vào.
+- Vào Sketch -> Include Library -> Add .ZIP Labrary...
